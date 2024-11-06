@@ -9,14 +9,11 @@
 	<meta name="description" content="Lab exercise template 2019-2020">
 	<meta name="author" content="sofos@aueb.gr">
 	<link rel="icon" href="images/favicon.ico">
-
 	<title>1η Εργαστηριακη Άσκηση</title>
-
 	<link rel="stylesheet" href="css/bootstrap.min.css">	
 	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
 	<link rel="stylesheet" href="css/theme_8220035.css">
 	</head>
-	
 	<body>
 
 		<nav class="navbar navbar-inverse navbar-fixed-top">
