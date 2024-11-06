@@ -6,8 +6,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Registration Form</title>
-        <!-- Bootstrap core CSS -->      
+        <title>Registration Form</title>      
         
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
@@ -22,9 +21,9 @@
               </div>
               <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                  <li><a href="index_ex1_8220035.jsp">Home</a></li>
-                  <li class="active"><a href="register_ex1_8220035.jsp">Register</a></li>
-                  <li><a href="about_ex1_8220035.jsp">About</a></li>
+                  <li><a href="index.jsp">Home</a></li>
+                  <li class="active"><a href="register.jsp">Register</a></li>
+                  <li><a href="about.jsp">About</a></li>
                 </ul>
               </div>
             </div>
