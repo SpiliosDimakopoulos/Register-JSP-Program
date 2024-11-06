@@ -14,7 +14,6 @@
 </head>
 <body>
 
-  <!-- Fixed navbar -->
   <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
@@ -22,9 +21,9 @@
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
-          <li><a href="index_ex1_8220035.jsp">Home</a></li>
-          <li><a href="register_ex1_8220035.jsp">Register</a></li>
-          <li class="active"><a href="about_ex1_8220035.jsp">About</a></li>
+          <li><a href="index.jsp">Home</a></li>
+          <li><a href="register.jsp">Register</a></li>
+          <li class="active"><a href="about.jsp">About</a></li>
         </ul>
       </div>
     </div>
